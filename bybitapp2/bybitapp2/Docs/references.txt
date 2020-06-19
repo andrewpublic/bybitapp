@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/32716174/call-and-consume-web-api-in-winform-using-c-net
+- 1st answer
