@@ -1,0 +1,4 @@
+C:\Users\Leet\source\repos\bybitapp3\obj\Debug\bybitapp3.csprojAssemblyReference.cache
+C:\Users\Leet\source\repos\bybitapp3\obj\Debug\bybitapp3.Properties.Resources.resources
+C:\Users\Leet\source\repos\bybitapp3\obj\Debug\bybitapp3.csproj.GenerateResource.cache
+C:\Users\Leet\source\repos\bybitapp3\obj\Debug\bybitapp3.csproj.CoreCompileInputs.cache

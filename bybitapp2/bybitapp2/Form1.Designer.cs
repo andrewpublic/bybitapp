@@ -59,10 +59,11 @@
             // 
             // display
             // 
-            this.display.Location = new System.Drawing.Point(216, 12);
+            this.display.Location = new System.Drawing.Point(216, 3);
             this.display.Multiline = true;
             this.display.Name = "display";
-            this.display.Size = new System.Drawing.Size(572, 189);
+            this.display.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
+            this.display.Size = new System.Drawing.Size(572, 444);
             this.display.TabIndex = 2;
             // 
             // pictureBox1

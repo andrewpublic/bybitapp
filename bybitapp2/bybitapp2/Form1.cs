@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Net.Http;
+using Newtonsoft.Json;
 
 namespace bybitapp2
 {
@@ -38,9 +39,22 @@ namespace bybitapp2
               new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
 
             //Get
-            display.Text = await client.GetStringAsync("https://api-testnet.bybit.com/v2/public/tickers");
+            ByBitRes deserializedProduct = JsonConvert.DeserializeObject<ByBitRes>(await client.GetStringAsync("https://api-testnet.bybit.com/v2/public/tickers"));
+            DataTable workingSet = deserializedProduct.result;
+            display.Text += workingSet.Rows[0].Field<string>("Symbol");
+            display.Text += ": " + workingSet.Rows[0].Field<string>("last_price");
         }
 
+        public class ByBitRes
+        {
+            public int ret_code { get; set; }
+            public string ret_msg { get; set; }
+            public string ext_code { get; set; }
+            public string ext_info { get; set; }
+            public DataTable result { get; set; }
+            public DateTime time_now { get; set; }
+
+        }
         private void lblMain_Click(object sender, EventArgs e)
         {
 
