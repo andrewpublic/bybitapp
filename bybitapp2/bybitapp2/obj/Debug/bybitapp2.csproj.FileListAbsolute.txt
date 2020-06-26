@@ -1,0 +1,15 @@
+C:\Users\Leet\Documents\bybitapp-master\bybitapp2\bybitapp2\obj\Debug\bybitapp2.csprojAssemblyReference.cache
+C:\Users\Leet\Documents\bybitapp-master\bybitapp2\bybitapp2\obj\Debug\bybitapp2.Form1.resources
+C:\Users\Leet\Documents\bybitapp-master\bybitapp2\bybitapp2\obj\Debug\bybitapp2.csproj.GenerateResource.cache
+C:\Users\Leet\Documents\bybitapp-master\bybitapp2\bybitapp2\bin\Debug\bybitapp2.exe.config
+C:\Users\Leet\Documents\bybitapp-master\bybitapp2\bybitapp2\bin\Debug\bybitapp2.exe
+C:\Users\Leet\Documents\bybitapp-master\bybitapp2\bybitapp2\bin\Debug\bybitapp2.pdb
+C:\Users\Leet\Documents\bybitapp-master\bybitapp2\bybitapp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Leet\Documents\bybitapp-master\bybitapp2\bybitapp2\bin\Debug\RestSharp.xml
+C:\Users\Leet\Documents\bybitapp-master\bybitapp2\bybitapp2\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Leet\Documents\bybitapp-master\bybitapp2\bybitapp2\obj\Debug\bybitapp2.Properties.Resources.resources
+C:\Users\Leet\Documents\bybitapp-master\bybitapp2\bybitapp2\obj\Debug\bybitapp2.csproj.CoreCompileInputs.cache
+C:\Users\Leet\Documents\bybitapp-master\bybitapp2\bybitapp2\obj\Debug\bybitapp2.csproj.CopyComplete
+C:\Users\Leet\Documents\bybitapp-master\bybitapp2\bybitapp2\obj\Debug\bybitapp2.exe
+C:\Users\Leet\Documents\bybitapp-master\bybitapp2\bybitapp2\obj\Debug\bybitapp2.pdb
+C:\Users\Leet\Documents\bybitapp-master\bybitapp2\bybitapp2\bin\Debug\Json.Net.dll
