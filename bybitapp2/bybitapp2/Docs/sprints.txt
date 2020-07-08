@@ -1,0 +1,32 @@
+To place an order:
+
+We need API connection with authentication - Sprint 4
+
+BTC/ETH/LTC
+
+
+
+Place Order
++
+Withdraw History
+
+MVP
+
+
+
+Sprint 1
+- Design & Documentation & Choose Language (Flutter/Adobe XD)
+Sprint 2
+- Learn UI and how to use Flutter
+- Create UI with roughly correct positions
+Sprint 3
+
+Sprint 4
+
+Sprint 5
+
+Sprint 6
+
+Sprint 7
+
+Sprint 8

@@ -1,0 +1,16 @@
+Extra Features:
+
+Unstoppable Domains - Implement into App
+
+Smart Contracts - ExploreSmart
+
+When placing orders, you can choose between exchanges (or default cheapest)
+
+Place order: can choose to place a take order at best price without executing or by selecting one from the 10 closest or by manually inputting
+
+
+Binance
+
+Bittrex
+
+Bitfinex
